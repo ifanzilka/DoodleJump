@@ -1,0 +1,8 @@
+﻿  GameField.cpp
+c:\users\fanzi\source\repos\doodlejump\doodlejump\gamefield.cpp(11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\fanzi\source\repos\doodlejump\doodlejump\gamefield.cpp(25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\fanzi\source\repos\doodlejump\doodlejump\gamefield.cpp(31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\fanzi\source\repos\doodlejump\doodlejump\gamefield.cpp(76): warning C4305: +=: усечение из "double" в "float"
+c:\users\fanzi\source\repos\doodlejump\doodlejump\gamefield.cpp(77): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+c:\users\fanzi\source\repos\doodlejump\doodlejump\gamefield.cpp(98): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DoodleJump.vcxproj -> C:\Users\fanzi\source\repos\DoodleJump\x64\Debug\DoodleJump.exe
